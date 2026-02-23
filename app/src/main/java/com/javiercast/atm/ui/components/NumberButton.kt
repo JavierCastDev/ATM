@@ -16,7 +16,7 @@ import androidx.compose.ui.unit.dp
 @Preview
 @Composable
 
-fun MyNumberButon() {
+fun MyNumberButton() {
     NumberButton(2)
 }
 
